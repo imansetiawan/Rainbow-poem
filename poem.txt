@@ -3,3 +3,5 @@ The rainbow
 orange
 purple
 blue
+red 
+green
